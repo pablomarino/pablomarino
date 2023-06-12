@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <div align="center">
-  <p align="center">... although they are not the only ones</p>
+  <p align="center">... although they are not the only ones...</p>
   <img height="23px" src="./assets/img/git.svg" alt="Git logo" />
 
   <img height="23px" src="./assets/img/python.svg" alt="Python logo" />
 
   <img height="23px" src="./assets/img/mongodb.svg" alt="MongoDb logo" />
   <img height="23px" src="./assets/img/postgresql.svg" alt="PostgreSQL logo" />
-
+  <img height="23px" src="./assets/img/nodedotjs.svg" alt="NodeJS logo" />
   <img height="23px" src="./assets/img/docker.svg" alt="Docker logo" />
 
   <img height="24.5x" src="./assets/img/adobephotoshop.svg" alt="Photoshop logo" />
