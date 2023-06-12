@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">🦀 Hi, I'm Pablo Mariño! 🦀</h2>
-<!--👾🐙🦀🧙🧙‍♂️🧜🧜‍♂️⛄🌠-->
+
 <p align="center">I am a <b>Front-End Developer</b> on a journey to become Full-Stack.</p>
 
 <p align="center">Those are my tools :</p>
@@ -68,10 +68,10 @@ Here are some ideas to get you started:
 
 <hr>
 <h3 align="center">Reach me at:<h3>
-    <p align="center"><a href="mailto:pablo.marino.boga@gmail.com"><img height="22px" src="./assets/img/gmail.svg"
-          alt="Gmail logo" /></a>
-      <a href="https://www.linkedin.com/in/pablomarino/"><img height="22px" src="./assets/img/linkedin.svg"
-          alt="LinkedIn logo" /></a>
-      <!--<a href="https://codepen.io/pablomarino"><img height="22px" src="./assets/img/codepen.svg"
-          alt="Codepen logo" /></a>-->
-    </p>
+<p align="center"><a href="mailto:pablo.marino.boga@gmail.com"><img height="22px" src="./assets/img/gmail.svg"
+      alt="Gmail logo" /></a> · 
+  <a href="https://www.linkedin.com/in/pablomarino/"><img height="22px" src="./assets/img/linkedin.svg"
+      alt="LinkedIn logo" /></a>
+  <!--<a href="https://codepen.io/pablomarino"><img height="22px" src="./assets/img/codepen.svg"
+      alt="Codepen logo" /></a>-->
+</p>
