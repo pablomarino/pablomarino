@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">🦀 Hi, I'm Pablo Mariño! 🦀</h2>
+<h2 align="center">🦀✨ Hi, I'm Pablo Mariño! ✨🦀</h2>
 
 <p align="center">I am a <b>Front-End Developer</b> on a journey to become Full-Stack.</p>
 
