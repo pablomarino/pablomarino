@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">🦀✨ Hi, I'm Pablo Mariño! ✨🦀</h2>
 
-<p align="center">I am a <b>Front-End Developer</b> on a journey to become Full-Stack.</p>
+<p align="center">I'm currently working as a <b>Front-End Developer</b>, and my goal is to progress towards becoming a proficient Full-Stack Developer.</p>
 
 <p align="center">Those are my tools :</p>
 <p align="center"></p>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <div align="center">
-  <p align="center">... although they are not the only ones...</p>
+  <p align="center">... although they are not the only ones in my toolbox ...</p>
   <img height="23px" src="./assets/img/git.svg" alt="Git logo" />
 
   <img height="23px" src="./assets/img/python.svg" alt="Python logo" />
