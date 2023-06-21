@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <p align="center"></p>
 <p align="center" margin-top="24px">I am also involved on side projects like <b><a href="https://gitlab.com/environment-logger">Environment Logger</a></b>. A personal device to measure Air, Noise and Light pollution 🏭 focused on urban environment and health 
-  or <b>OpenPet</b> a web app to help people find and adopt pets 🐕 from animal shelters.</p>
+  or <b><a href="https://gitlab.com/corunahacks/OpenPet">OpenPet</a></b> a Open Data Source exposed through a REST API to help people find and adopt pets 🐕 from animal shelters.</p>
 </p>
 
 <p align="center"></p>
