@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center"></p>
-<p align="center" margin-top="24px">I am also involved on side projects like <b>Environment Logger</b>. A personal device to measure Air, Noise and Light pollution 🏭 focused on urban environment and health 
+<p align="center" margin-top="24px">I am also involved on side projects like <b><a href="https://gitlab.com/environment-logger">Environment Logger</a></b>. A personal device to measure Air, Noise and Light pollution 🏭 focused on urban environment and health 
   or <b>OpenPet</b> a web app to help people find and adopt pets 🐕 from animal shelters.</p>
 </p>
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="center">Reach me at:<h3>
 <p align="center"><a href="mailto:pablo.marino.boga@gmail.com"><img height="22px" src="./assets/img/gmail.svg"
-      alt="Gmail logo" /></a> · 
+      alt="Gmail logo" /></a>  
   <a href="https://www.linkedin.com/in/pablomarino/"><img height="22px" src="./assets/img/linkedin.svg"
       alt="LinkedIn logo" /></a>
   <!--<a href="https://codepen.io/pablomarino"><img height="22px" src="./assets/img/codepen.svg"
