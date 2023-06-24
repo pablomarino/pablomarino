@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 <p align="center"></p>
 <p align="center">
 <div align="center">
+  <img height="23px" src="./assets/img/html5.svg" alt="HTML5 logo" />
+  <img height="24.5px" src="./assets/img/sass.svg" alt="SASS logo" />
+  <img height="23px" src="./assets/img/css3.svg" alt="CSS logo" />
+  
   <img height="23px" src="./assets/img/typescript.svg" alt="TypeScript logo" />
   <img height="23px" src="./assets/img/javascript.svg" alt="JavaScript logo" />
 
@@ -30,10 +34,6 @@ Here are some ideas to get you started:
   <img height="23px" src="./assets/img/jest.svg" alt="Jest logo" />
   <img height="23px" src="./assets/img/cypress.svg" alt="Cypress logo" />
 
-  <img height="23px" src="./assets/img/html5.svg" alt="HTML5 logo" />
-
-  <img height="23px" src="./assets/img/css3.svg" alt="CSS logo" />
-  <img height="24.5px" src="./assets/img/sass.svg" alt="SASS logo" />
 </div>
 </p>
 <p align="center">
