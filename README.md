@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <h3 align="center">Reach me at:<h3>
 <p align="center"><a href="mailto:pablo.marino.boga@gmail.com"><img height="22px" src="./assets/img/gmail.svg"
       alt="Gmail logo" /></a>  
-  <a href="https://www.linkedin.com/in/pablomarino/"><img height="22px" src="./assets/img/linkedin.svg"
+  <a href="https://www.linkedin.com/in/pablomarinoboga/"><img height="22px" src="./assets/img/linkedin.svg"
       alt="LinkedIn logo" /></a>
   <!--<a href="https://codepen.io/pablomarino"><img height="22px" src="./assets/img/codepen.svg"
       alt="Codepen logo" /></a>-->
